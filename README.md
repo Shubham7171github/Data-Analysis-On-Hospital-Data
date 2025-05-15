@@ -10,3 +10,7 @@ This Power BI dashboard turns raw hospital data into meaningful, visual insights
 3. Bed occupancy & average length of stay
 
 4. Interactive filters (date, Dianosis)
+
+------- The excel sheet get from Kaggle ------- 
+
+The dashboard helps identify business insights and growth opportunities using clean, interactive visuals.
