@@ -1,4 +1,4 @@
-# Data-Analysis-On-Blink-it-
+# Data-Analysis-On-Hospital Dashboard
 🏥 Hospital Dashboard (Power BI)
 This Power BI dashboard turns raw hospital data into meaningful, visual insights for better decision-making in healthcare.
 
